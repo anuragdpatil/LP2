@@ -1,0 +1,5 @@
+1. npm i -g @angular/cli@latest {To install angular CLI}
+2. ng new ps-4 {to create a angular project sample}
+3. ng serve {to compile and run the angular project}
+4. ng generate component {name}
+5. <router-outlet></router-outlet>

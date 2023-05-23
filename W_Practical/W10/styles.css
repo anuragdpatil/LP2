@@ -1,0 +1,33 @@
+body {
+    background-color: gainsboro;
+}
+
+.blue{
+    background-color: midnightblue;
+    padding: 1%;
+}
+
+.face{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+}
+
+.wh{
+    color: white;
+    margin: auto;
+}
+
+.bttn{
+    align-items: center;
+    padding-top: 3%;
+}
+
+.f1{
+    padding: auto;
+}
+
+.bt{
+    color: midnightblue;
+
+}
